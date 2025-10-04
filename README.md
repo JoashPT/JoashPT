@@ -23,3 +23,6 @@ Feel free to explore my repositories and don't hesitate to reach out. Happy codi
 - [Table Tennis website](https://github.com/JoashPT/wdd231)
 - [Web API](https://github.com/JoashPT/cse341/tree/main/projectFinal)
 - [Yoda Quote Website](https://github.com/JoashPT/wdd330)
+
+## Statistics
+![GitHub contributions](https://github.com/username/username/blob/master/github-contribution-grid-snake.svg)
