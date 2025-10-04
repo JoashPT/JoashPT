@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**JoashPT/JoashPT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Joash Tantiangco
 
-Here are some ideas to get you started:
+I'm Joash Tantiangco, a student at Brigham Young University-Idaho interested in computers in general. For now, my focus in software is web development. However I would also like to learn more about game development, data science, machine learning, and cyber security in the future. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- I'm currently learning ASP.NET and other .NET technologies like Blazor and Razor as well as C++
+- My goals are to ...
+- Ask me about ...
+
+## Technologies and Tools
+
+- Proficient in: HTML, CSS, JavaScript, C#
+- Skills: Git, VS Code, Docker, MongoDB
+
+## Let's Connect!
+
+- Here is my [LinkedIn](www.linkedin.com/in/joash-tantiangco-36a795280) profile
+
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding!
+
+- [Table Tennis website](https://github.com/JoashPT/wdd231)
+- [Web API](https://github.com/JoashPT/cse341/tree/main/projectFinal)
+- [Yoda Quote Website](https://github.com/JoashPT/wdd330)
