@@ -25,4 +25,4 @@ Feel free to explore my repositories and don't hesitate to reach out. Happy codi
 - [Yoda Quote Website](https://github.com/JoashPT/wdd330)
 
 ## Statistics
-![GitHub contributions](https://github.com/username/username/blob/master/github-contribution-grid-snake.svg)
+![GitHub contributions](https://github.com/JoashPT/JoashPT/blob/master/github-contribution-grid-snake.svg)
